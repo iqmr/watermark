@@ -16,4 +16,4 @@
 # Before
 ![image info](input_directory/file_1.jpg)
 # After
-![image info](output_directory/file_1.jpg)
+![image info](output_directory/watermarked file_1.jpg)
